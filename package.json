@@ -1,0 +1,23 @@
+{
+  "name": "Txtmerge",
+  "version": "1.0.0",
+  "description": "En applikation som combinerar alla text filer från ett direktiv och genererar en ny text fil med alla poster från alla inlästa text filer, sorterade alfabetiskt utan duplikat poster.",
+  "main": "txtmerge.js",
+  "scripts": {
+    "start": "node txtmerge"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GorskiMB/TIATIL00S.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/GorskiMB/TIATIL00S/issues"
+  },
+  "homepage": "https://github.com/GorskiMB/TIATIL00S#readme",
+  "dependencies": {
+    "argparse": "^1.0.10"
+  }
+}
